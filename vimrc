@@ -36,7 +36,7 @@ set cindent			"C风格缩进
 set tabstop=4		"tab键宽度
 set shiftwidth=4	"统一缩进
 set softtabstop=4	"统一缩进
-set noexpandtab		"实际使用tab字符，不要用空格字符替换
+set expandtab		"用空格字符替换tab
 set smarttab		"行首段首自动使用tab
 
 
